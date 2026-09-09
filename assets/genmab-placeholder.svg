@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Genmab work product placeholder</title>
+  <desc id="desc">Abstract biotechnology and AI placeholder image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef8fb"/>
+      <stop offset="1" stop-color="#d5e9f0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf3f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <rect x="74" y="76" width="812" height="388" rx="18" fill="url(#panel)" stroke="#c8dce6"/>
+  <g fill="none" stroke="#0c477f" stroke-width="5" opacity=".75">
+    <path d="M170 348c78-94 142-94 220 0s142 94 220 0 142-94 220 0"/>
+    <path d="M170 292c78-94 142-94 220 0s142 94 220 0 142-94 220 0"/>
+  </g>
+  <g fill="#008b92">
+    <circle cx="286" cy="214" r="22"/>
+    <circle cx="368" cy="186" r="14"/>
+    <circle cx="435" cy="238" r="18"/>
+    <circle cx="520" cy="198" r="16"/>
+    <circle cx="594" cy="248" r="24"/>
+    <circle cx="680" cy="208" r="14"/>
+  </g>
+  <g stroke="#6a7b8f" stroke-width="4">
+    <line x1="286" y1="214" x2="368" y2="186"/>
+    <line x1="368" y1="186" x2="435" y2="238"/>
+    <line x1="435" y1="238" x2="520" y2="198"/>
+    <line x1="520" y1="198" x2="594" y2="248"/>
+    <line x1="594" y1="248" x2="680" y2="208"/>
+  </g>
+  <text x="120" y="150" fill="#071d3a" font-family="Georgia, serif" font-size="52" font-weight="700">Genmab</text>
+  <text x="120" y="198" fill="#40506a" font-family="Arial, sans-serif" font-size="24">Enterprise GenAI artifact placeholder</text>
+  <rect x="120" y="386" width="246" height="46" rx="8" fill="#071d3a"/>
+  <text x="146" y="416" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Add demo or deck link</text>
+</svg>
