@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Uncharted work product placeholder</title>
+  <desc id="desc">Abstract investment research workflow placeholder image.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6fbfd"/>
+      <stop offset=".56" stop-color="#e7f2f7"/>
+      <stop offset="1" stop-color="#d4e5ec"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg2)"/>
+  <path d="M0 420 165 286l112 68 172-158 126 104 138-148 247 268v120H0z" fill="#0c477f" opacity=".18"/>
+  <path d="M0 452 180 332l110 52 156-116 128 86 140-108 246 206v88H0z" fill="#071d3a" opacity=".22"/>
+  <rect x="74" y="72" width="360" height="396" rx="18" fill="#fff" stroke="#c8dce6"/>
+  <rect x="120" y="132" width="220" height="18" rx="9" fill="#071d3a"/>
+  <rect x="120" y="184" width="256" height="12" rx="6" fill="#a8bfca"/>
+  <rect x="120" y="218" width="184" height="12" rx="6" fill="#a8bfca"/>
+  <rect x="120" y="290" width="236" height="16" rx="8" fill="#008b92"/>
+  <rect x="120" y="334" width="184" height="12" rx="6" fill="#a8bfca"/>
+  <rect x="120" y="366" width="226" height="12" rx="6" fill="#a8bfca"/>
+  <g fill="none" stroke="#008b92" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M558 340 628 238l82 54 96-134"/>
+    <path d="M806 158h-68"/>
+    <path d="M806 158v68"/>
+  </g>
+  <text x="506" y="132" fill="#071d3a" font-family="Georgia, serif" font-size="52" font-weight="700">Uncharted</text>
+  <text x="508" y="180" fill="#40506a" font-family="Arial, sans-serif" font-size="24">AI investment research case study</text>
+  <rect x="508" y="386" width="268" height="46" rx="8" fill="#071d3a"/>
+  <text x="534" y="416" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Add product artifact link</text>
+</svg>
